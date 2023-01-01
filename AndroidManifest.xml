@@ -14,10 +14,10 @@
 <!-- limitations under the License. -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.google.firebase.installations.interop"
-    android:versionName="16.0.0" >
+    android:versionName="16.0.1" >
 
     <uses-sdk
         android:minSdkVersion="14"
-        android:targetSdkVersion="28" />
+        android:targetSdkVersion="29" />
 
 </manifest>
